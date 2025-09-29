@@ -1,0 +1,14 @@
+# 1. Critical Secrets
+.env
+
+# 2. Virtual Environment (the folder)
+env/
+venv/
+
+# 3. Python Compiled Files and Cache
+
+__pycache__/
+*.pyc
+
+# 4. Local Vector Database (the folder)
+chroma_db/
