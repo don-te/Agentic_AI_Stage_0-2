@@ -1,0 +1,11 @@
+langchain 
+langchain-community
+wikipedia
+langchain-deepseek
+pypdf 
+langchain-text-splitters 
+chromadb 
+tiktoken
+langchain-huggingface
+sentence-transformers
+pydantic
